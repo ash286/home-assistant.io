@@ -120,5 +120,6 @@ Devices we know to be working with this integration based on the [documentation 
 - Huawei B618
 - Huawei B529s-23a
 - Huawei B535s
+- Huawei H122-373 (5G CPE Pro 2)
 
 This is not a complete list. The integration can probably connect to other Huawei LTE devices running similar firmware.
